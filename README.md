@@ -1,5 +1,7 @@
 # Next.js OpenAI Doc Search Starter
 
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="150" height="100" alt="Happy Octocat">
+
 This starter takes all the `.mdx` files in the `pages` directory and processes them to use as custom context within [OpenAI Text Completion](https://platform.openai.com/docs/guides/completion) prompts.
 
 ## Deploy
