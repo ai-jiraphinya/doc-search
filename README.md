@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://res.cloudinary.com/mintmu/image/upload/v1707126516/ai-jiraphinya/jiraphinya_logo_svg.svg" width="200" height="200" alt="jiraphinya logo">   
+   <img src="https://res.cloudinary.com/mintmu/image/upload/v1707126516/ai-jiraphinya/jiraphinya_logo_svg.svg" width="256" height="256" alt="jiraphinya logo">   
 </p>
 
 
