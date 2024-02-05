@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/mintmu/image/upload/v1707126516/ai-jiraphinya/jiraphinya_logo_svg.svg" width="256" height="256" alt="jiraphinya logo">
 
-https://res.cloudinary.com/mintmu/image/upload/v1707162149/ai-jiraphinya/Authentication-Supabase_1_k3qmkh.png
+
 
 This starter takes all the `.mdx` files in the `pages` directory and processes them to use as custom context within [OpenAI Text Completion](https://platform.openai.com/docs/guides/completion) prompts.
 
@@ -14,7 +14,8 @@ Deploy this starter to Vercel. The Supabase integration will automatically set t
 
 ## Technical Details
 
-Building your own custom ChatGPT involves four steps:
+**Building your own custom ChatGPT involves four steps:**
+
 <img src="https://res.cloudinary.com/mintmu/image/upload/v1707162149/ai-jiraphinya/Authentication-Supabase_1_k3qmkh.png"  alt="Authentication-Supabase">
 
 1. [👷 Build time] Pre-process the knowledge base (your `.mdx` files in your `pages` folder).
